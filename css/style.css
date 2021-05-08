@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #000 !important;
+  color: #fff !important;
+}
+
+.brand{
+  background: #5f5f5f !important;
+}
+.brand-text{
+  color: #868686 !important;
+}
+
+.brand-text:hover{
+  text-decoration: underline;
+}
+
+form{
+  max-width: 460px;
+  margin: 20px auto;
+  padding: 20px;
+  background: rgb(31, 31, 31);
+}
